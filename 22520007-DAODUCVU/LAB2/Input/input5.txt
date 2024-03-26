@@ -1,0 +1,23 @@
+Movie 1
+10.50
+Theater A
+100
+60
+24
+36
+
+Movie 2
+8.75
+Theater B
+150
+84
+40
+44
+
+Movie 3
+12.00
+Theater C
+70
+60
+50
+10

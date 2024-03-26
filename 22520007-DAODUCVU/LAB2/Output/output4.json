@@ -1,0 +1,38 @@
+[
+  {
+    "FullName": "Dao Duc Vu",
+    "MSSV": 22520007,
+    "PhoneNumber": "0785300604",
+    "Grade1": 10,
+    "Grade2": 9,
+    "Grade3": 10,
+    "AverageGrade": 9.666667
+  },
+  {
+    "FullName": "Huynh Gia Han",
+    "MSSV": 22520567,
+    "PhoneNumber": "0785300604",
+    "Grade1": 7,
+    "Grade2": 8,
+    "Grade3": 9,
+    "AverageGrade": 8
+  },
+  {
+    "FullName": "Hello",
+    "MSSV": 22520099,
+    "PhoneNumber": "0785356431",
+    "Grade1": 10,
+    "Grade2": 8,
+    "Grade3": 9,
+    "AverageGrade": 9
+  },
+  {
+    "FullName": "Phan Dinh Tung",
+    "MSSV": 22520041,
+    "PhoneNumber": "0678901234",
+    "Grade1": 10,
+    "Grade2": 9,
+    "Grade3": 1,
+    "AverageGrade": 6.6666665
+  }
+]

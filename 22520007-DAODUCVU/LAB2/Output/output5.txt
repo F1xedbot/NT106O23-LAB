@@ -1,0 +1,31 @@
+Cinema Statistics:
+Movie: Movie 1
+Total Tickets: 100
+Tickets Sold: 60
+Remaining Tickets: 40
+Sell-Out Ratio: 60,00%
+Standard Revenue: $63000
+VIP Revenue: $50400
+Half-Price Revenue: $18900
+Total Revenue: $132300
+
+Movie: Movie 2
+Total Tickets: 150
+Tickets Sold: 84
+Remaining Tickets: 66
+Sell-Out Ratio: 56,00%
+Standard Revenue: $73500
+VIP Revenue: $70000
+Half-Price Revenue: $19250,0
+Total Revenue: $162750,0
+
+Movie: Movie 3
+Total Tickets: 70
+Tickets Sold: 60
+Remaining Tickets: 10
+Sell-Out Ratio: 85,71%
+Standard Revenue: $72000
+VIP Revenue: $120000
+Half-Price Revenue: $6000
+Total Revenue: $198000
+
