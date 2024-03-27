@@ -39,7 +39,8 @@ namespace LAB2
             fileInfo.FileContent = File.ReadAllText(filePath, Encoding.UTF8);
             fileInfo.LineCount = fileInfo.FileContent.Split(new[] { '\r', '\n' }, StringSplitOptions.RemoveEmptyEntries).Length;
             fileInfo.CharactersCount = fileInfo.FileContent.Length;
-            fileInfo.WordsCount = fileInfo.FileContent.Split(new char[] { ' ', '\t', '\n', '\r' }, StringSplitOptions.RemoveEmptyEntries).Length;
+            fileInfo.WordsCount = fileInfo.FileContent.Split(new char[] { ' ', '\t', '\n', '\r' }, 
+                StringSplitOptions.RemoveEmptyEntries).Length;
             return fileInfo;
         }
 

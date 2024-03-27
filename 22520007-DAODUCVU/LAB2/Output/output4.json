@@ -34,5 +34,14 @@
     "Grade2": 9,
     "Grade3": 1,
     "AverageGrade": 6.6666665
+  },
+  {
+    "FullName": "Someone",
+    "MSSV": 22520999,
+    "PhoneNumber": "0783567891",
+    "Grade1": 10,
+    "Grade2": 9,
+    "Grade3": 1,
+    "AverageGrade": 6.6666665
   }
 ]

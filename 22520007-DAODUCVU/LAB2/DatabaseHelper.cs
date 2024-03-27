@@ -20,12 +20,15 @@ namespace LAB2
                 connection.Open();
 
                 // Path to the image file you want to insert
-                string imagePath = "../../../Databases/Images/pho.jpg";
+                string imagePath1 = "../../../Databases/Images/pho.jpg";
+                string imagePath2 = "../../../Databases/Images/chagio.jpg";
 
                 int idncc = 1;
-                string name = "pho";
+                string name1 = "pho";
+                string name2 = "chagio";
 
-                InsertMonAn(imagePath, name, idncc, connection);
+                InsertMonAn(imagePath1, name1, idncc, connection);
+                InsertMonAn(imagePath2, name2, idncc, connection);
 
                 // Close the connection
                 connection.Close();
